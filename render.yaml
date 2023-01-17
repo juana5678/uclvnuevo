@@ -1,4 +1,4 @@
-﻿databases: bot nube
+﻿databases: botnube
   - name: botnube
     databaseName: botnube
     user: botnube
