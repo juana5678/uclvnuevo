@@ -1,6 +1,6 @@
 ﻿databases: botnube
  
-    databaseName: botnube
+  
     user: botnube
 services: web service
  - type: pserv
