@@ -1,7 +1,7 @@
 ﻿databases: botnube
  
   
-    user: botnube
+    user: jorgr
 services: web service
  - type: pserv
    name: pgbouncer
