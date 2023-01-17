@@ -4,7 +4,7 @@
    
 services: web service
    
-   env: docker
+  
    plan: standard
    repo: https://github.com/render-oss/docker-pgbouncer
    envVars:
