@@ -5,7 +5,7 @@
 services: web service
    
   
-   plan: standard
+  
    repo: https://github.com/render-oss/docker-pgbouncer
    envVars:
    - key: DATABASE_URL
