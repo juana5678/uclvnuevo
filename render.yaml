@@ -13,7 +13,7 @@ services:
      fromDatabase: postgres://jorgr:22SpANSgqt90n99P425JTmdEmePKaNvU@dpg-cf31gh2rrk0bppctltbg-a/botnube
 
        
-       property: connectionString
+      
    - key: POOL_MODE
      value: transaction
    - key: SERVER_RESET_QUERY
