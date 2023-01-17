@@ -2,7 +2,7 @@
   - name: botnube
     databaseName: botnube
     user: botnube
-services:
+services: # A Doker web service
  - type: pserv
    name: pgbouncer
    env: docker
