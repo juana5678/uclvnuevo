@@ -7,7 +7,7 @@ services: web service
   
   
 
-   envVars:
+  
    - key: DATABASE_URL
      fromDatabase: 22SpANSgqt90n99P425JTmdEmePKaNvU psql -h dpg-cf31gh2rrk0bppctltbg-a.oregon-postgres.render.com -U jorgr botnube
 
