@@ -3,7 +3,6 @@
   
    
 services: web service
- - type: pserv
    name: pgbouncer
    env: docker
    plan: standard
