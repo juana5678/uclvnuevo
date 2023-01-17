@@ -10,7 +10,9 @@ services:
    repo: https://github.com/render-oss/docker-pgbouncer
    envVars:
    - key: DATABASE_URL
-     fromDatabase: https://postgres://jorgr:22SpANSgqt90n99P425JTmdEmePKaNvU@dpg-cf31gh2rrk0bppctltbg-a.oregon-postgres.render.com/botnube
+     fromDatabase: 
+  
+ 
 
        
        
