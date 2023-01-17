@@ -3,7 +3,7 @@
   
    
 services: web service
-   name: pgbouncer
+   
    env: docker
    plan: standard
    repo: https://github.com/render-oss/docker-pgbouncer
