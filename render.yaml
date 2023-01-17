@@ -12,7 +12,7 @@ services:
    - key: DATABASE_URL
      fromDatabase: postgres://jorgr:22SpANSgqt90n99P425JTmdEmePKaNvU@dpg-cf31gh2rrk0bppctltbg-a/botnube
 
-       name: botnube
+       
        property: connectionString
    - key: POOL_MODE
      value: transaction
