@@ -1,0 +1,22 @@
+﻿1
+2 {
+3 "nombre" : "uclvnuevo" ,     
+4 "versión" : "1.0.0" ,     
+5 "descripción" : "" ,     
+6 "guiones" : {     
+7 "compilación" : "echo \"Sin compilación especificada\" && exit 1" ,         
+8 "test" : "echo \"No se ha especificado ninguna prueba\" && exit 1" ,         
+9 "inicio" : "nodo index.js"         
+10 } ,    
+11 "repositorio" : {     
+12 "tipo" : "git" ,         
+13 "url" : "git+https://github.com/juana5678/uclvnuevo.git"         
+14 } ,    
+15 "autor" : "" ,     
+16 "licencia" : "ISC" ,     
+17 "errores" : {     
+18 "url" : "https://github.com/juana5678/uclvnuevo/issues"         
+19 } ,    
+20 "página de inicio" : "https://github.com/juana5678/uclvnuevo#readme"     
+21 }
+22 
