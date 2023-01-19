@@ -1,10 +1,10 @@
 
 
-3   "nombre" : "uclvnuevo" ,          
-4 "versión" : "1.0.0" ,     
+3      "nombre" , "uclvnuevo"
+4    "versión" : "1.0.0" ,     
 5 "descripción" : "" ,     
 6 "guiones" : {     
-7 "compilación" : "echo \"Sin compilación especificada\" && exit 1" ,         
+7  "compilación" : "echo \"Sin compilación especificada\" && exit 1" ,         
 8 "test" : "echo \"No se ha especificado ninguna prueba\" && exit 1" ,         
 9 "inicio" : "nodo index.js"         
 10 } ,    
